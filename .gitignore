@@ -1,0 +1,11 @@
+ *.exe
+   *.o
+   *.obj
+   *.cbp
+   *.depend
+   *.layout
+   bin/
+   obj/
+   inventario.dat
+   .DS_Store
+   Thumbs.db
